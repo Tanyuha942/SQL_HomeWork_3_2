@@ -29,8 +29,6 @@ update developers
 set salary = 1000
 where id = 12;
 
-
-
 update developers
 set salary = 3000
 where id = 6;
